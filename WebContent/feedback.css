@@ -1,0 +1,35 @@
+@charset "ISO-8859-1";
+
+.id1{
+	border:2px solid black;
+	height:400px;
+	width:700px;
+	background-color:#fffdd0;
+}
+
+h1{
+	font-style:italic;
+	
+}
+h2{
+	font-style:italic;
+	margin-left:500px;
+	
+}
+
+.id3{
+	
+	margin-right:30px;
+}
+
+body{
+	background-image:url("https://c1.wallpaperflare.com/preview/891/69/258/desk-paper-feedback-smartphone.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+.ee{
+	
+	float:left;
+	margin-left:300px;
+}
